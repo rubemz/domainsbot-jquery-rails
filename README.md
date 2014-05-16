@@ -9,7 +9,7 @@ Add the following to your Gemfile:
 
 ```
 gem 'domainsbot-jquery-rails'
-``
+```
 
 Add the following directive to your Javascript manifest file (application.js):
 
